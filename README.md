@@ -32,4 +32,4 @@ The dashboard supports data-driven decision-making by revealing patterns and pot
 - Data source: Ola ride booking data (simulated dataset for July 2024).
 
 ---
-
+## ⭐ If you found this project useful, don’t forget to star the repository!
