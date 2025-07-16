@@ -8,6 +8,8 @@ A dynamic Power BI project that analyzes ride booking data for Ola, providing va
 This project involves building an interactive dashboard in Power BI to analyze Ola’s ride booking data for July 2024. It helps stakeholders understand booking volumes, cancellation reasons, and financial metrics at a glance.  
 
 The dashboard supports data-driven decision-making by revealing patterns and potential improvement areas in operations and customer experience.
+<img width="1315" height="744" alt="image" src="https://github.com/user-attachments/assets/87e12f3c-aafd-4eb9-9494-5f58a6e9fffe" />
+
 
 ---
 
